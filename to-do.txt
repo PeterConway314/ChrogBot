@@ -1,0 +1,2 @@
+- team picker
+- magic 8 ball
