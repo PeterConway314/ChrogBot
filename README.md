@@ -1,0 +1,2 @@
+# ChrogBot
+A Discord robot.
